@@ -1,0 +1,9 @@
+C:\Users\olgar\source\repos\StructureData\StructureData\bin\Debug\netcoreapp3.1\StructureData.deps.json
+C:\Users\olgar\source\repos\StructureData\StructureData\bin\Debug\netcoreapp3.1\StructureData.dll
+C:\Users\olgar\source\repos\StructureData\StructureData\bin\Debug\netcoreapp3.1\StructureData.pdb
+C:\Users\olgar\source\repos\StructureData\StructureData\obj\Debug\netcoreapp3.1\StructureData.csprojAssemblyReference.cache
+C:\Users\olgar\source\repos\StructureData\StructureData\obj\Debug\netcoreapp3.1\StructureData.AssemblyInfoInputs.cache
+C:\Users\olgar\source\repos\StructureData\StructureData\obj\Debug\netcoreapp3.1\StructureData.AssemblyInfo.cs
+C:\Users\olgar\source\repos\StructureData\StructureData\obj\Debug\netcoreapp3.1\StructureData.csproj.CoreCompileInputs.cache
+C:\Users\olgar\source\repos\StructureData\StructureData\obj\Debug\netcoreapp3.1\StructureData.dll
+C:\Users\olgar\source\repos\StructureData\StructureData\obj\Debug\netcoreapp3.1\StructureData.pdb
