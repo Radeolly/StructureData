@@ -113,12 +113,8 @@ namespace StructureData.LL
                     tmp = tmp.Next;
                 }
                 tmp.Next = null;
-            }
-            else
-            {
-                _root = new Node();
-            }
-            Length--;
+                Length--;
+            }            
         }
 
         public void DeleteFirstElement()
@@ -130,13 +126,8 @@ namespace StructureData.LL
             if (_root != null)
             {
                 _root = _root.Next;
-
+                Length--;
             }
-            else
-            {
-                _root = new Node();
-            }
-            Length--;
         }
 
         public void DeleteByIndex(int index)
